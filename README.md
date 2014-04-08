@@ -1,5 +1,7 @@
 ﻿# NArms.AutoMapper
 
+[![Build status](https://ci.appveyor.com/api/projects/status/fq9fva6mqtdhhyqx)](https://ci.appveyor.com/project/Eskat0n/narms-automapper)
+
 ## What is this?
 
 ## Usage
